@@ -36,3 +36,4 @@ Original ACNL Cheat plugin by Nanquitas:  https://github.com/Nanquitas/ACNL-NTR-
 Uses code from PokemonCheatPlugin by hartmannaf (not all of it is implemented yet):  https://github.com/hartmannaf/PokemonCheatPlugin
 
 The other encounter modifier codes MIGHT be implemented some time in the near future, so keep an eye out for it!
+hollow soul dot sail strike former about shoe trouble matter rather clutch stun least just chin guy beauty allow doubt nail couple suit said
